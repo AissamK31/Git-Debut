@@ -1,17 +1,17 @@
 Commande shell 
 
-Mkdir : créer nouveau dossier 
-Ls : lister
-Ls -a : afficher dossier caché
-Ls -l : mettre en colonne 
-Ls -al : afficher les doss et les doss cacher en colonne
-Rm doc.txt : remove efface un dossier
-Rm -r nomdudossier : effacer un dossier
-Cd : aller dans un dossier 
-Cd.. : retour en arrière dans un fichier 
-Cd ../dossier : retour sur un doss précis 
-Mv : déplacer un fichier
-Cp : copier 
+    Mkdir : créer nouveau dossier 
+    Ls : lister
+    Ls -a : afficher dossier caché
+    Ls -l : mettre en colonne 
+    Ls -al : afficher les doss et les doss cacher en colonne
+    Rm doc.txt : remove efface un dossier
+    Rm -r nomdudossier : effacer un dossier
+    Cd : aller dans un dossier 
+    Cd.. : retour en arrière dans un fichier 
+    Cd ../dossier : retour sur un doss précis 
+    Mv : déplacer un fichier
+    Cp : copier 
 
 
 commande pour push sur github
